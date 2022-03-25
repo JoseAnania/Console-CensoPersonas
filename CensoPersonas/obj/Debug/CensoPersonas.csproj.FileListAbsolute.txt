@@ -1,0 +1,7 @@
+C:\Users\José\Desktop\Dev\C#\Consola\CensoPersonas\CensoPersonas\bin\Debug\CensoPersonas.exe.config
+C:\Users\José\Desktop\Dev\C#\Consola\CensoPersonas\CensoPersonas\bin\Debug\CensoPersonas.exe
+C:\Users\José\Desktop\Dev\C#\Consola\CensoPersonas\CensoPersonas\bin\Debug\CensoPersonas.pdb
+C:\Users\José\Desktop\Dev\C#\Consola\CensoPersonas\CensoPersonas\obj\Debug\CensoPersonas.csprojAssemblyReference.cache
+C:\Users\José\Desktop\Dev\C#\Consola\CensoPersonas\CensoPersonas\obj\Debug\CensoPersonas.csproj.CoreCompileInputs.cache
+C:\Users\José\Desktop\Dev\C#\Consola\CensoPersonas\CensoPersonas\obj\Debug\CensoPersonas.exe
+C:\Users\José\Desktop\Dev\C#\Consola\CensoPersonas\CensoPersonas\obj\Debug\CensoPersonas.pdb
